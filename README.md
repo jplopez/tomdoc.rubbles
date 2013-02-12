@@ -1,7 +1,7 @@
 tomdoc.rubbles
 ==============
 
-Aptana Rubbles project intended to use Tomdoc in Ruby projects inside Aptana Studio
+Aptana Studio Rubbles project for using Tomdoc in Ruby
 
 # Instructions
 ==============
@@ -78,3 +78,8 @@ You'll see 3 snippets
 2. Tomdoc Constant: constant or important variables
 3. Tomdoc Method: for method documentations. Use this above method declaration
 
+# Disclaimer
+============
+
+Tomdoc : http://tomdoc.org/
+Aptana Studio : http://www.aptana.com/
