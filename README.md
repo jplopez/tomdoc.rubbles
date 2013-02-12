@@ -71,7 +71,9 @@ Studio 3 includes a bundles view that shows all currently loaded Rubles. You can
 =======
 
 Rubbles are used via _trigger_. Type _tom_ and then hit Ctrl + Space.
+
 You'll see 3 snippets
+
 1. Tomdoc Class : For Class documentation. Use this above class declaration
 2. Tomdoc Constant: constant or important variables
 3. Tomdoc Method: for method documentations. Use this above method declaration
